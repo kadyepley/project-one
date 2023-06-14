@@ -20,7 +20,7 @@ Examine how water usage is affected by different seasons throughout the year.
 
 Which zip codes within the Austin metro area have the highest total monthly water consumption in gallons from monthly usage data between 2013 and 2017
 
-How does the average monthly water usage differ among the predominant customer classes (Residential, Multi-Family, and Irrigation) within each zip code
+How does the total monthly water usage differ among the predominant customer classes (Residential, Multi-Family, and Irrigation) within each zip code
 
 Datasets to used – (timeframe of data: 2017 to 2022)
 •	data.austintexas.gov – Water consumption
