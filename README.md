@@ -1,6 +1,6 @@
 
 
-### **Project title:**
+<!-- ### **Project title:**
 Determining the Relationship between Temperature Variation and Water Usage Patterns in Austin
 #### **Team Members:**
 Joel Rodriguez, Kady Epley, Sujatha Angajala
@@ -8,8 +8,7 @@ Joel Rodriguez, Kady Epley, Sujatha Angajala
 This project aims to explore the relationship between water usage and temperature variation in Austin, as well as the impact of seasons on water consumption patterns. We will analyze historical data from 2013 to 2017 to gain comprehensive insights into these factors.
 
 #### **Research Questions to Answer:**
-1. Is there a relationship between average monthly water usage in Austin and temperature variation? (2013-2017 data)
-2. How does water usage change throughout the year across different seasons?
+1. Analyze the  impact of weather and seasons on water consumption?
 
 3. Which zip codes in the Austin metro area have the highest total monthly water consumption in gallons? (2013-2017 data)
 
@@ -28,12 +27,13 @@ Everyone: Presentation
 
 **Water utility companies** can benefit by analyzing how water consumption changes with temperature fluctuations. This helps them manage resources better and plan for different water demand in different seasons.
 
-**Local governments** can use the analysis of water consumption by pin code to identify areas with water scarcity or excessive usage. This helps them develop conservation programs, implement water-saving initiatives, and create fair policies for water distribution in the region
+**Local governments** can use the analysis of water consumption by pin code to identify areas with water scarcity or excessive usage. This helps them develop conservation programs, implement water-saving initiatives, and create fair policies for water distribution in the region -->
 
+#### **Research question:**
+Analyze the impact of weather variations, such as temperature and humidity, as well as seasons on water consumption
 
-#### **Research question 1:**
-Is there a relationship between average monthly water usage in Austin and weather variation like  temperature and humidity (2013-2017 data)?
-##### **Results:**
+#### **Results:**
+**Temperature Variations**
 Calculations results: Correlation coefficient: 0.72 , pvalue: 2.8001668828740518e-08 for temperature vs water consumed
                       Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed 
 
@@ -43,21 +43,30 @@ Additionally, the extremely low p-value (2.8001668828740518e-08) suggests strong
 
 Box plot analysis shows that median water consumption tends to increase as the temperature ranges become higher, indicating a positive relationship between temperature and water consumption.
 
+**Humidity Variations**
+
 Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed
 
 The p-value of 0.09610620068416795 suggests that there is not enough evidence to reject the null hypothesis. The null hypothesis states that there is no correlation between water usage and humidity level .We found very week negative correlation (-.25 )
 
+**Seasonal Variations**
+
+Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
+
 
 ##### **Conclusion:**
-Based on the analysis, we can conclude that as the average temperature rises, we can expect an increase in monthly water consumption. This relationship is unlikely to be a coincidence.
+Based on the analysis, we can conclude that as the average temperature rises, we can expect an increase in monthly water consumption.This relationship is unlikely to be a coincidence.
+
+There is no correlation between water usage and humidity level
+
+Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
+
 ##### Limitations: 
 The analysis has not considered other factors, such as city growth.
-#### **Research question 2:**
-How does water usage change throughout the year across different seasons?
-##### **Results:**
-Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
-##### **Conclusion:**
-The above observations suggets a seasonal influence on water consumption
+
+
+
+
 ##### **Statistics**
 | Statistic | Total water consumed (Millions) | Average Temperature |
 | --------- | ------------------------------ | ------------------- |
