@@ -32,15 +32,21 @@ Everyone: Presentation
 
 
 #### **Research question 1:**
-Is there a relationship between average monthly water usage in Austin and temperature variation (2013-2017 data)?
+Is there a relationship between average monthly water usage in Austin and weather variation like  temperature and humidity (2013-2017 data)?
 ##### **Results:**
-Calculations results: Correlation coefficient: 0.72 , pvalue: 2.8001668828740518e-08
+Calculations results: Correlation coefficient: 0.72 , pvalue: 2.8001668828740518e-08 for temperature vs water consumed
+                      Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed 
 
 Based on the analysis and calculation of four years of data, as well as the scatter plots with regression lines generated using this data, we found a strong positive correlation (Correlation coefficient: 0.72) between average temperature and monthly water consumption. This indicates that as the average temperature increases, the monthly water consumption tends to increase as well.
 
 Additionally, the extremely low p-value (2.8001668828740518e-08) suggests strong evidence against the null hypothesis. Therefore, we reject the null hypothesis and accept the alternative hypothesis. The observed correlation is statistically significant.
 
 Box plot analysis shows that median water consumption tends to increase as the temperature ranges become higher, indicating a positive relationship between temperature and water consumption.
+
+Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed
+
+The p-value of 0.09610620068416795 suggests that there is not enough evidence to reject the null hypothesis. The null hypothesis states that there is no correlation between water usage and humidity level .We found very week negative correlation (-.25 )
+
 
 ##### **Conclusion:**
 Based on the analysis, we can conclude that as the average temperature rises, we can expect an increase in monthly water consumption. This relationship is unlikely to be a coincidence.
