@@ -40,7 +40,8 @@ Based on the analysis and calculation of four years of data, as well as the scat
 
 Additionally, the extremely low p-value (2.8001668828740518e-08) suggests strong evidence against the null hypothesis. Therefore, we reject the null hypothesis and accept the alternative hypothesis. The observed correlation is statistically significant.
 
-By analyzing the box plot, we observed that the average water consumption increases as the temperature ranges become higher. This suggests a positive linear relationship between temperature and water consumption
+Box plot analysis shows that median water consumption tends to increase as the temperature ranges become higher, indicating a positive relationship between temperature and water consumption.
+
 ##### **Conclusion:**
 Based on the analysis, we can conclude that as the average temperature rises, we can expect an increase in monthly water consumption. This relationship is unlikely to be a coincidence.
 ##### Limitations: 
