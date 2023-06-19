@@ -34,7 +34,7 @@ Analyze the impact of weather variations, such as temperature and humidity, as w
 
 #### **Results:**
 **Temperature Variations**
-Calculations results: Correlation coefficient: 0.72 , pvalue: 2.8001668828740518e-08 for temperature vs water consumed
+Calculations results: Correlation coefficient: 0.72 , pvalue: 2.8001668828740518e-08 for avrage temperature per month vs Average water consumed per month
                       Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed 
 
 Based on the analysis and calculation of four years of data, as well as the scatter plots with regression lines generated using this data, we found a strong positive correlation (Correlation coefficient: 0.72) between average temperature and monthly water consumption. This indicates that as the average temperature increases, the monthly water consumption tends to increase as well.
@@ -57,7 +57,7 @@ Based on the observation from  scatter plot and boxplot for each season showing 
 ##### **Conclusion:**
 Based on the analysis, we can conclude that as the average temperature rises, we can expect an increase in monthly water consumption.This relationship is unlikely to be a coincidence.
 
-There is no correlation between water usage and humidity level
+There is no correlation between water usage and humidity persentage
 
 Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
 
