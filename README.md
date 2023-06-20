@@ -1,7 +1,7 @@
 # project-one
 
 
-<!-- ### **Project title:**
+### **Project title:**
 Determining the Relationship between Temperature Variation and Water Usage Patterns in Austin
 #### **Team Members:**
 Joel Rodriguez, Kady Epley, Sujatha Angajala
@@ -28,7 +28,7 @@ Everyone: Presentation
 
 **Water utility companies** can benefit by analyzing how water consumption changes with temperature fluctuations. This helps them manage resources better and plan for different water demand in different seasons.
 
-**Local governments** can use the analysis of water consumption by pin code to identify areas with water scarcity or excessive usage. This helps them develop conservation programs, implement water-saving initiatives, and create fair policies for water distribution in the region -->
+**Local governments** can use the analysis of water consumption by pin code to identify areas with water scarcity or excessive usage. This helps them develop conservation programs, implement water-saving initiatives, and create fair policies for water distribution in the region 
 
 #### **Research question:**
 Analyze the impact of weather variations, such as temperature and humidity, as well as seasons on water consumption
