@@ -77,7 +77,7 @@ There is no correlation between water usage and humidity persentage
 Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
 
 
-##### **Statistics**
+##### **Statistics:**
 | Statistic | Total water consumed (Millions) | Average Temperature |
 | --------- | ------------------------------ | ------------------- |
 | min       | 1.45                           | 48.82               |
@@ -112,7 +112,7 @@ Based on the observation from  scatter plot and boxplot for each season showing 
 
 Which zip codes in the Austin metro area have the highest total monthly water consumption in gallons? (2013-2017 data)
 
-#### **Results**
+#### **Results:**
 
 The datasets that were used for this question were from Kaggle and from the Austintexas.dataset.gov website. The datasets gathered data on water usage in the Austin-metro area, the temperature, humidity, and customer classes. Cleaning and analyzing the data from the two used data sets for the water consumption for the zip codes in the Austin-metro area we found that the usage is consistent throughout. The top ten zip codes with the most water consumption in the metro area are shown below in the graph, which shows the consistency in the usage of water.
 
@@ -130,7 +130,7 @@ The conclusion that could be gathered for this question is that there isn't one 
 
 How does the total monthly water usage differ among the predominant customer classes (Residential, Multi-Family, and Irrigation) within each zip code?
 
-#### **Results**
+#### **Results:**
 
 To display the water usage by customer class, we created a line graph that displays the four customer classes, Residential, Multi-Family, Irrigation - Residential, and Irrigation - Multi-Family's total water usage over the course of each year. This allows us to observe the seasonal patterns in relation to the other customer classes. From this visualization, we can tell that the Residential customer class has the most dramatic responses to the seasons, mirroring the pattern displayed in our seasonality findings.  The Multi-Family customer class has much small increases in the summer and fall months and is more consistent in its usage. Inversely, the Irrigation - Multi-Family customer class line shows more seasonal increases compared to the Irrigation - Residential's water usage. This could be linked to residential homes using less water for agriculture, landscaping, and shared resources like pools compared to apartment complexes, mobile and trailer home parks, and shared living facilities. 
 
