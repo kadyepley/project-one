@@ -148,17 +148,17 @@ The Irrigation extension of the Residential customer class is less than its Irri
 
 ------------
 
-#### Limitations: 
+### Limitations: 
 
-_City Growth_
+**City Growth**
 
 We were not able to account for population growth and changes in customer classes over time. This would be useful to see how the water usage changes in relations to population growth.
 
-_Limited Data_
+**Limited Data**
 
 This data is limited in the years that it covers. It does not account for trends across decades in relation to population. 
 
-_Exclusion of Commercial Water Usage_
+**Exclusion of Commercial Water Usage**
 
 When stakeholders in the community are making decisions, our analysis does not include the commercial water use. This would be another signification use of water that would be worth exploring when researching ways to reduce water usage in the wake of water restrictions due to climate change. 
 
