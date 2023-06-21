@@ -58,6 +58,10 @@ Additionally, the extremely low p-value (2.8001668828740518e-08) suggests strong
 
 Box plot analysis shows that median water consumption tends to increase as the temperature ranges become higher, indicating a positive relationship between temperature and water consumption.
 
+![image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q1_scatter.png)
+
+![image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q1_boxplot.png)
+
 **Humidity Variations**
 
 Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed
