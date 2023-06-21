@@ -101,3 +101,12 @@ The analysis has not considered other factors, such as city growth.
 | Summer  | 1.70           | 2.134473e+09      | 2.763112e+09   | 3.126551e+08                 | 2.20            |
 | Winter  | 1.45           | 1.66              | 1.77           | 1.09                         | 1.65            |
 
+
+Question 2: Which zip codes in the Austin metro area have the highest total monthly water consumption in gallons? (2013-2017 data)
+
+The datasets that were used for this question were from Kaggle and from the Austintexas.dataset.gov website. The datasets gathered data on water usage in the Austin-metro area, the temperature, humidity, and customer classes. Cleaning and analyzing the data from the two used data sets for the water consumption for the zip codes in the Austin-metro area we found that the usage is consistent throughout. The top ten zip codes with the most water consumption in the metro area are shown below in the graph, which shows the consistency in the usage of water.
+
+![image](https://github.com/kadyepley/project-one/assets/131110404/4fc7189b-f4ed-4891-9d17-f0f551ef3aa7)
+
+
+The conclusion that could be gathered for this question is that there isn't one geographical area in Austin that consumes more water than the others in or around the city. The data could help local government find a solution to water usage in the city if access to water becomes a bigger issue with climate change affecting the planet as time passes by.
