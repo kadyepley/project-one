@@ -66,11 +66,19 @@ Box plot analysis shows that median water consumption tends to increase as the t
 
 Correlation coefficient: -0.25 , pvalue: 0.09610620068416795 for humidity vs water consumed
 
-The p-value of 0.09610620068416795 suggests that there is not enough evidence to reject the null hypothesis. The null hypothesis states that there is no correlation between water usage and humidity level .We found very week negative correlation (-.25 )
+The p-value of 0.09610620068416795 suggests that there is not enough evidence to reject the null hypothesis. The null hypothesis states that there is no correlation 
+
+between water usage and humidity level .We found very week negative correlation (-.25 )
+
+![image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q1b_scatter.png)
 
 **Seasonal Variations**
 
 Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
+
+![image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q2_boxplot.png)
+
+[image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q2_bar.png)
 
 ##### **Conclusion:**
 
