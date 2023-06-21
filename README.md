@@ -54,6 +54,12 @@ The p-value of 0.09610620068416795 suggests that there is not enough evidence to
 
 Based on the observation from  scatter plot and boxplot for each season showing water consumption , it is evident that the average monthly water consumption is higher during the Summer and Fall seasons, while it is lower during the Spring and Winter seasons. Specifically, the highest average water consumption is observed during the Summer, while the lowest average water consumption occurs during the Winter
 
+**Customer Class**
+
+To display the water usage by customer class, we created a line graph that displays the four customer classes, Residential, Multi-Family, Irrigation - Residential, and Irrigation - Multi-Family's total water usage over the course of each year. This allows us to observe the seasonal patterns in relation to the other customer classes. From this visualization, we can tell that the Residential customer class has the most dramatic responses to the seasons, mirroring the pattern displayed in our seasonality findings.  The Multi-Family customer class has much small increases in the summer and fall months and is more consistent in its usage. Inversely, the Irrigation - Multi-Family customer class line shows more seasonal increases compared to the Irrigation - Residential's water usage. This could be linked to residential homes using less water for agriculture, landscaping, and shared resources like pools compared to apartment complexes, mobile and trailer home parks, and shared living facilities. 
+
+Our bar chart emphasizes the difference in water volume by customer class. This visual really nails home the sheer amount of water that is being used by Residential compared to the other three customer classes. This would be useful for lawmakers and other key community stake holders when considering the demographics to further research and link to water usage, incentivizing reduced water usage, and considering water restrictions within the community.  
+
 
 ##### **Conclusion:**
 Based on the analysis, we can conclude that as the average temperature rises, we can expect an increase in monthly water consumption.This relationship is unlikely to be a coincidence.
