@@ -78,7 +78,7 @@ Based on the observation from  scatter plot and boxplot for each season showing 
 
 ![image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q2_boxplot.png)
 
-[image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q2_bar.png)
+![image](https://github.com/kadyepley/project-one/blob/main/Austin_Weather_Water/Images/q2_bar.png)
 
 ##### **Conclusion:**
 
